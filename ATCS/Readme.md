@@ -1,6 +1,4 @@
 Script: CAM_data_ext
-Title: Arduino Data to PostgreSQL Database Integration
-
 Description:
 This Python script establishes a connection between an Arduino Nano and a PostgreSQL database, allowing you to capture data from the Arduino and store it in a structured manner in the database. The code utilizes the `psycopg2` library to interact with PostgreSQL and the `serial` library to communicate with the Arduino via a serial port.
 
